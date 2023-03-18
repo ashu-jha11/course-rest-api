@@ -1,6 +1,6 @@
 # course-rest-api
 
-I have performed 7 simple servies for course rest api using spring boot
+I have performed 7 simple servies for course rest api using list collection in spring boot
 1. Display all courses
 2. Get course details based on batch code
 3. Get the name of all faculties
